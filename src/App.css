@@ -155,7 +155,7 @@ transition: background-color 0.3s;
 }
 
 .nail-polish-card img {
-  width: 100%;
+  width: 300px;
   height: 300px;
   object-fit: cover;
   border-radius: 8px;
@@ -170,6 +170,7 @@ transition: background-color 0.3s;
 .nail-polish-card p {
   font-size: 0.9rem;
   color: #666;
+  max-width: 290px;
 }
 
 .submit-button{
